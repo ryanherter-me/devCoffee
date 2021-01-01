@@ -1,0 +1,44 @@
+{
+  "name":"Dev'Coffee",
+  "short_name":"DevCoffee",
+  "start_url":"index.html",
+  "display":"standalone",
+  "background-color":"#fdfdfd",
+  "theme_color":"#db4938",
+  "orietation":"portrait-primary",
+  "icons": [
+    {
+      "scr": "https://cdn.glitch.com/f1d01c4c-8c7b-427f-b48c-1b790902b4e3%2Ficon-72x72.png",
+      "type":"image/png", "size":"72x72"
+    },
+    {
+      "src": "https://cdn.glitch.com/f1d01c4c-8c7b-427f-b48c-1b790902b4e3%2Ficon-96x96.png",
+      "type":"image/png","size":"96x96"
+    },
+    {
+      "src": "https://cdn.glitch.com/f1d01c4c-8c7b-427f-b48c-1b790902b4e3%2Ficon-128x128.png",
+      "type":"image/png","size":"128x128"
+    },
+    {
+      "src": "https://cdn.glitch.com/f1d01c4c-8c7b-427f-b48c-1b790902b4e3%2Ficon-144x144.png",
+      "type":"image/png","size":"144x144"
+    },
+    {
+      "src": "https://cdn.glitch.com/f1d01c4c-8c7b-427f-b48c-1b790902b4e3%2Ficon-152x152.png",
+      "type":"image/png","size":"152x152"
+    },
+    {
+      "src": "https://cdn.glitch.com/f1d01c4c-8c7b-427f-b48c-1b790902b4e3%2Ficon-192x192.png",
+      "type":"image/png","size":"192x192"
+    },
+    {
+      "src": "https://cdn.glitch.com/f1d01c4c-8c7b-427f-b48c-1b790902b4e3%2Ficon-384x384.png",
+      "type":"image/png","size":"384x384"
+    },
+    {
+      "src": "https://cdn.glitch.com/f1d01c4c-8c7b-427f-b48c-1b790902b4e3%2Ficon-512x512.png",
+      "type":"image/png","size":"512x512"
+    },
+
+  ]
+}
